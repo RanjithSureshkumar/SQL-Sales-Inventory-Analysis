@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Price,CostPrice,StockQuantity
+1,Vegetables,Groceries,235.63,68.82,22
+2,Puzzle,Toys,35.82,22.45,93
+3,Doll,Toys,417.28,287.27,66
+4,Toy Car,Toys,197.79,14.0,83
+5,Shoes,Clothing,386.05,11.25,34
+6,Fantasy Novel,Books,473.3,75.69,78
+7,Toy Car,Toys,14.67,252.09,68
+8,Dress,Clothing,440.93,187.16,99
+9,Camera,Electronics,289.97,73.09,61
+10,Vegetables,Groceries,241.1,143.12,59
+11,Cookbook,Books,471.66,36.09,55
+12,Non-Fiction Book,Books,152.81,284.43,93
+13,Fruits,Groceries,198.04,140.58,75
+14,Camera,Electronics,446.36,78.36,34
+15,Dress,Clothing,418.69,111.93,41
+16,Cheese,Groceries,271.42,182.56,31
+17,Jacket,Clothing,368.64,289.19,11
+18,Shoes,Clothing,400.93,216.07,35
+19,Jeans,Clothing,449.42,233.78,57
+20,Camera,Electronics,246.67,50.8,31
+21,Bluetooth Speaker,Electronics,140.1,94.69,96
+22,Jacket,Clothing,245.39,174.45,59
+23,Toy Car,Toys,197.48,278.81,72
+24,Cookbook,Books,336.09,173.59,78
+25,Bluetooth Speaker,Electronics,400.08,272.59,85
+26,Board Game,Toys,363.47,113.84,48
+27,Puzzle,Toys,421.05,282.56,43
+28,Cookbook,Books,460.17,61.1,3
+29,T-Shirt,Clothing,490.46,178.45,63
+30,Building Blocks,Toys,269.39,249.51,41
+31,Puzzle,Toys,453.93,74.37,23
+32,Board Game,Toys,297.99,209.76,62
+33,Jacket,Clothing,333.18,91.87,27
+34,Jacket,Clothing,46.55,205.91,45
+35,Tablet,Electronics,217.16,242.05,33
+36,Headphones,Electronics,434.09,239.28,43
+37,Action Figure,Toys,94.96,170.65,35
+38,Jeans,Clothing,133.78,14.24,76
+39,Jeans,Clothing,167.04,160.76,89
+40,Non-Fiction Book,Books,230.08,199.13,35
+41,Doll,Toys,172.06,22.55,71
+42,Bluetooth Speaker,Electronics,440.42,194.97,1
+43,Non-Fiction Book,Books,142.74,5.77,66
+44,Hat,Clothing,475.85,127.18,24
+45,Laptop,Electronics,213.67,148.08,10
+46,Action Figure,Toys,418.28,131.19,30
+47,Dress,Clothing,237.8,109.93,92
+48,Doll,Toys,375.77,267.69,52
+49,Children's Book,Books,30.78,139.0,62
+50,Mystery Novel,Books,476.2,47.59,71
